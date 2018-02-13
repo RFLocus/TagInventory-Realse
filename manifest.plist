@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/RFLocus/TagInventory/releases/download/1.1/TagInventory.ipa</string>
+					<string>https://github.com/RFLocus/TagInventory/releases1/download/1.1.7/TagInventory.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://rflocus.github.io/TagInventory-Realse/inventory57.png</string>
+					<string>https://rflocus.github.io/TagInventory-Realse1/inventory57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://rflocus.github.io/TagInventory-Realse/inventory512.png</string>
+					<string>https://rflocus.github.io/TagInventory-Realse1/inventory512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
